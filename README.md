@@ -1,10 +1,10 @@
 # Searching Algorithms
 
-**BFS:**
+**BFS:** \
 <img width="450" src="./bfs.png" />
 
-**Dijkstra:**
+**Dijkstra:** \
 <img width="450" src="./dijkstra.png" />
 
-**A\*:**
+**A\*:** \
 <img width="450" src="./astar.png" />
