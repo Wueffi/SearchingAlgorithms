@@ -60,7 +60,7 @@
     "Rostock": "Stralsund"
   },
   {
-    "Stralsund": "Saßnitz"
+    "Stralsund": "Sassnitz"
   },
   {
     "Stralsund": "Greifswald"
@@ -252,10 +252,10 @@
     "Bautzen": "Dresden"
   },
   {
-    "Dresden": "Meißen"
+    "Dresden": "Meissen"
   },
   {
-    "Meißen": "Leipzig"
+    "Meissen": "Leipzig"
   },
   {
     "Leipzig": "Torgau"
@@ -573,16 +573,16 @@
     "Kassel": "Marburg"
   },
   {
-    "Marburg": "Gießen"
+    "Marburg": "Giessen"
   },
   {
-    "Gießen": "Fulda"
+    "Giessen": "Fulda"
   },
   {
     "Fulda": "Bad Hersfeld"
   },
   {
-    "Gießen": "Bad Hersfeld"
+    "Giessen": "Bad Hersfeld"
   },
   {
     "Bad Hersfeld": "Marburg"
@@ -591,10 +591,10 @@
     "Marburg": "Siegen"
   },
   {
-    "Siegen": "Gießen"
+    "Siegen": "Giessen"
   },
   {
-    "Gießen": "Limburg"
+    "Giessen": "Limburg"
   },
   {
     "Siegen": "Limburg"
@@ -687,7 +687,7 @@
     "Frankfurt": "Limburg"
   },
   {
-    "Gießen": "Offenbach"
+    "Giessen": "Offenbach"
   },
   {
     "Offenbach": "Fulda"

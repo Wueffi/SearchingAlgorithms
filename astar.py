@@ -11,8 +11,8 @@ color = 0x66BBFF
 line_color = 0x0066FF
 path_color = 0xFFFFFF
 
-starting_node = node_names["Hamburg"]
-target_node = node_names["Muenchen"]
+starting_node = node_names["Sassnitz"]
+target_node = node_names["Loerrach"]
 
 
 def heuristic(node):
