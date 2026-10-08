@@ -1,0 +1,1124 @@
+[
+  {
+    "Flensburg": "Schleswig"
+  },
+  {
+    "Husum": "Schleswig"
+  },
+  {
+    "Husum": "Flensburg"
+  },
+  {
+    "Husum": "Heide"
+  },
+  {
+    "Rendsburg": "Schleswig"
+  },
+  {
+    "Schleswig": "Kiel"
+  },
+  {
+    "Neumuenster": "Kiel"
+  },
+  {
+    "Rendsburg": "Neumuenster"
+  },
+  {
+    "Itzehoe": "Luebeck"
+  },
+  {
+    "Luebeck": "Hamburg"
+  },
+  {
+    "Hamburg": "Neumuenster"
+  },
+  {
+    "Neumuenster": "Luebeck"
+  },
+  {
+    "Hamburg": "Itzehoe"
+  },
+  {
+    "Itzehoe": "Rendsburg"
+  },
+  {
+    "Itzehoe": "Neumuenster"
+  },
+  {
+    "Itzehoe": "Heide"
+  },
+  {
+    "Luebeck": "Kiel"
+  },
+  {
+    "Luebeck": "Wismar"
+  },
+  {
+    "Wismar": "Rostock"
+  },
+  {
+    "Rostock": "Stralsund"
+  },
+  {
+    "Stralsund": "Saßnitz"
+  },
+  {
+    "Stralsund": "Greifswald"
+  },
+  {
+    "Greifswald": "Neubrandenburg"
+  },
+  {
+    "Neubrandenburg": "Guestrow"
+  },
+  {
+    "Guestrow": "Rostock"
+  },
+  {
+    "Guestrow": "Schwerin"
+  },
+  {
+    "Schwerin": "Wismar"
+  },
+  {
+    "Hamburg": "Lueneburg"
+  },
+  {
+    "Lueneburg": "Lauenburg"
+  },
+  {
+    "Lauenburg": "Hamburg"
+  },
+  {
+    "Lauenburg": "Ludwigslust"
+  },
+  {
+    "Ludwigslust": "Schwerin"
+  },
+  {
+    "Guestrow": "Pritzwalk"
+  },
+  {
+    "Perleberg": "Pritzwalk"
+  },
+  {
+    "Perleberg": "Ludwigslust"
+  },
+  {
+    "Lueneburg": "uelzen"
+  },
+  {
+    "uelzen": "Ludwigslust"
+  },
+  {
+    "Stendal": "Perleberg"
+  },
+  {
+    "Stendal": "Wolfsburg"
+  },
+  {
+    "Wolfsburg": "Braunschweig"
+  },
+  {
+    "Braunschweig": "uelzen"
+  },
+  {
+    "uelzen": "Celle"
+  },
+  {
+    "Celle": "Soltau"
+  },
+  {
+    "Soltau": "Hamburg"
+  },
+  {
+    "Hamburg": "Stade"
+  },
+  {
+    "Stade": "Cuxhaven"
+  },
+  {
+    "Cuxhaven": "Bremerhaven"
+  },
+  {
+    "Bremerhaven": "Bremen"
+  },
+  {
+    "Bremen": "Hamburg"
+  },
+  {
+    "Bremen": "Verden"
+  },
+  {
+    "Verden": "Nienburg"
+  },
+  {
+    "Nienburg": "Hannover"
+  },
+  {
+    "Hannover": "Verden"
+  },
+  {
+    "Soltau": "Hannover"
+  },
+  {
+    "Celle": "Hannover"
+  },
+  {
+    "Hannover": "Hildesheim"
+  },
+  {
+    "Hildesheim": "Braunschweig"
+  },
+  {
+    "Braunschweig": "Salzgitter"
+  },
+  {
+    "Salzgitter": "Hildesheim"
+  },
+  {
+    "Hildesheim": "Goettingen"
+  },
+  {
+    "Goettingen": "Nordhausen"
+  },
+  {
+    "Nordhausen": "Goslar"
+  },
+  {
+    "Goslar": "Salzgitter"
+  },
+  {
+    "Halberstadt": "Nordhausen"
+  },
+  {
+    "Nordhausen": "Eisleben"
+  },
+  {
+    "Eisleben": "Aschersleben"
+  },
+  {
+    "Aschersleben": "Magdeburg"
+  },
+  {
+    "Magdeburg": "Halberstadt"
+  },
+  {
+    "Magdeburg": "Stendal"
+  },
+  {
+    "Pritzwalk": "Berlin"
+  },
+  {
+    "Berlin": "Neustrelitz"
+  },
+  {
+    "Neustrelitz": "Neubrandenburg"
+  },
+  {
+    "Neubrandenburg": "Pasewalk"
+  },
+  {
+    "Pasewalk": "Stettin"
+  },
+  {
+    "Stettin": "Prenzlau"
+  },
+  {
+    "Prenzlau": "Neubrandenburg"
+  },
+  {
+    "Pasewalk": "Prenzlau"
+  },
+  {
+    "Pasewalk": "Greifswald"
+  },
+  {
+    "Prenzlau": "Berlin"
+  },
+  {
+    "Berlin": "Frankfurt Oder"
+  },
+  {
+    "Cottbus": "Berlin"
+  },
+  {
+    "Frankfurt Oder": "Cottbus"
+  },
+  {
+    "Cottbus": "Bautzen"
+  },
+  {
+    "Bautzen": "Dresden"
+  },
+  {
+    "Dresden": "Meißen"
+  },
+  {
+    "Meißen": "Leipzig"
+  },
+  {
+    "Leipzig": "Torgau"
+  },
+  {
+    "Torgau": "Wittenberg"
+  },
+  {
+    "Wittenberg": "Dessau"
+  },
+  {
+    "Dessau": "Magdeburg"
+  },
+  {
+    "Magdeburg": "Brandenburg"
+  },
+  {
+    "Brandenburg": "Potsdam"
+  },
+  {
+    "Potsdam": "Berlin"
+  },
+  {
+    "Berlin": "Dessau"
+  },
+  {
+    "Berlin": "Dresden"
+  },
+  {
+    "Dresden": "Torgau"
+  },
+  {
+    "Dresden": "Cottbus"
+  },
+  {
+    "Aschersleben": "Halle"
+  },
+  {
+    "Halle": "Magdeburg"
+  },
+  {
+    "Wittenberg": "Halle"
+  },
+  {
+    "Halle": "Leipzig"
+  },
+  {
+    "Leipzig": "Naumburg"
+  },
+  {
+    "Naumburg": "Eisleben"
+  },
+  {
+    "Gera": "Leipzig"
+  },
+  {
+    "Leipzig": "Chemnitz"
+  },
+  {
+    "Chemnitz": "Gera"
+  },
+  {
+    "Plauen": "Gera"
+  },
+  {
+    "Gera": "Jena"
+  },
+  {
+    "Jena": "Naumburg"
+  },
+  {
+    "Plauen": "Zwickau"
+  },
+  {
+    "Zwickau": "Chemnitz"
+  },
+  {
+    "Chemnitz": "Freiberg"
+  },
+  {
+    "Freiberg": "Dresden"
+  },
+  {
+    "Bremen": "Oldenburg"
+  },
+  {
+    "Oldenburg": "Wilhelmshaven"
+  },
+  {
+    "Oldenburg": "Leer"
+  },
+  {
+    "Leer": "Emden"
+  },
+  {
+    "Emden": "Norden"
+  },
+  {
+    "Emden": "Aurich"
+  },
+  {
+    "Leer": "Rheine"
+  },
+  {
+    "Rheine": "Osnabrueck"
+  },
+  {
+    "Osnabrueck": "Diepholz"
+  },
+  {
+    "Diepholz": "Oldenburg"
+  },
+  {
+    "Diepholz": "Bremen"
+  },
+  {
+    "Osnabrueck": "Minden"
+  },
+  {
+    "Minden": "Nienburg"
+  },
+  {
+    "Minden": "Hannover"
+  },
+  {
+    "Hannover": "Hameln"
+  },
+  {
+    "Hameln": "Minden"
+  },
+  {
+    "Minden": "Bielefeld"
+  },
+  {
+    "Bielefeld": "Osnabrueck"
+  },
+  {
+    "Rheine": "Muenster"
+  },
+  {
+    "Muenster": "Bielefeld"
+  },
+  {
+    "Bielefeld": "Guetersloh"
+  },
+  {
+    "Guetersloh": "Dortmund"
+  },
+  {
+    "Dortmund": "Muenster"
+  },
+  {
+    "Muenster": "Wesel"
+  },
+  {
+    "Wesel": "Emmerich"
+  },
+  {
+    "Emmerich": "Kleve"
+  },
+  {
+    "Kleve": "Krefeld"
+  },
+  {
+    "Krefeld": "Duisburg"
+  },
+  {
+    "Duisburg": "Wesel"
+  },
+  {
+    "Duisburg": "Oberhausen"
+  },
+  {
+    "Oberhausen": "Muehlheim"
+  },
+  {
+    "Muehlheim": "Duisburg"
+  },
+  {
+    "Oberhausen": "Recklinghausen"
+  },
+  {
+    "Recklinghausen": "Gelsenkirchen"
+  },
+  {
+    "Gelsenkirchen": "Essen"
+  },
+  {
+    "Essen": "Muehlheim"
+  },
+  {
+    "Muehlheim": "Wuppertal"
+  },
+  {
+    "Wuppertal": "Bochum"
+  },
+  {
+    "Bochum": "Gelsenkirchen"
+  },
+  {
+    "Bochum": "Dortmund"
+  },
+  {
+    "Bochum": "Recklinghausen"
+  },
+  {
+    "Recklinghausen": "Dortmund"
+  },
+  {
+    "Dortmund": "Hagen"
+  },
+  {
+    "Hagen": "Bochum"
+  },
+  {
+    "Wuppertal": "Hagen"
+  },
+  {
+    "Solingen": "Wuppertal"
+  },
+  {
+    "Wuppertal": "Duesseldorf"
+  },
+  {
+    "Duesseldorf": "Duisburg"
+  },
+  {
+    "Krefeld": "Moenchen-Gladbach"
+  },
+  {
+    "Moenchen-Gladbach": "Duesseldorf"
+  },
+  {
+    "Duesseldorf": "Leverkusen"
+  },
+  {
+    "Leverkusen": "Koeln"
+  },
+  {
+    "Koeln": "Dueren"
+  },
+  {
+    "Dueren": "Aachen"
+  },
+  {
+    "Aachen": "Moenchen-Gladbach"
+  },
+  {
+    "Aachen": "Koeln"
+  },
+  {
+    "Dueren": "Euskirchen"
+  },
+  {
+    "Euskirchen": "Koeln"
+  },
+  {
+    "Koeln": "Siegen"
+  },
+  {
+    "Siegen": "Hagen"
+  },
+  {
+    "Meschede": "Siegen"
+  },
+  {
+    "Meschede": "Hagen"
+  },
+  {
+    "Meschede": "Soest"
+  },
+  {
+    "Soest": "Muenster"
+  },
+  {
+    "Soest": "Dortmund"
+  },
+  {
+    "Soest": "Guetersloh"
+  },
+  {
+    "Guetersloh": "Muenster"
+  },
+  {
+    "Soest": "Paderborn"
+  },
+  {
+    "Paderborn": "Bielefeld"
+  },
+  {
+    "Paderborn": "Hameln"
+  },
+  {
+    "Hameln": "Kassel"
+  },
+  {
+    "Kassel": "Paderborn"
+  },
+  {
+    "Meschede": "Kassel"
+  },
+  {
+    "Kassel": "Goettingen"
+  },
+  {
+    "Goettingen": "Bebra"
+  },
+  {
+    "Bebra": "Bad Hersfeld"
+  },
+  {
+    "Bad Hersfeld": "Kassel"
+  },
+  {
+    "Kassel": "Marburg"
+  },
+  {
+    "Marburg": "Gießen"
+  },
+  {
+    "Gießen": "Fulda"
+  },
+  {
+    "Fulda": "Bad Hersfeld"
+  },
+  {
+    "Gießen": "Bad Hersfeld"
+  },
+  {
+    "Bad Hersfeld": "Marburg"
+  },
+  {
+    "Marburg": "Siegen"
+  },
+  {
+    "Siegen": "Gießen"
+  },
+  {
+    "Gießen": "Limburg"
+  },
+  {
+    "Siegen": "Limburg"
+  },
+  {
+    "Koeln": "Siegburg"
+  },
+  {
+    "Siegburg": "Bonn"
+  },
+  {
+    "Bonn": "Koeln"
+  },
+  {
+    "Euskirchen": "Andernach"
+  },
+  {
+    "Andernach": "Koblenz"
+  },
+  {
+    "Koblenz": "Limburg"
+  },
+  {
+    "Limburg": "Siegburg"
+  },
+  {
+    "Euskirchen": "Trier"
+  },
+  {
+    "Trier": "Saarlouis"
+  },
+  {
+    "Saarlouis": "Saarbruecken"
+  },
+  {
+    "Saarbruecken": "Neunkirchen"
+  },
+  {
+    "Kaiserslautern": "Neunkirchen"
+  },
+  {
+    "Saarbruecken": "Pirmasens"
+  },
+  {
+    "Pirmasens": "Landau"
+  },
+  {
+    "Landau": "Speyer"
+  },
+  {
+    "Speyer": "Ludwigshafen"
+  },
+  {
+    "Ludwigshafen": "Worms"
+  },
+  {
+    "Kaiserslautern": "Worms"
+  },
+  {
+    "Worms": "Mainz"
+  },
+  {
+    "Mainz": "Bingen"
+  },
+  {
+    "Bingen": "Trier"
+  },
+  {
+    "Koblenz": "Wiesbaden"
+  },
+  {
+    "Wiesbaden": "Mainz"
+  },
+  {
+    "Ludwigshafen": "Mannheim"
+  },
+  {
+    "Mannheim": "Darmstadt"
+  },
+  {
+    "Darmstadt": "Frankfurt"
+  },
+  {
+    "Offenbach": "Frankfurt"
+  },
+  {
+    "Frankfurt": "Wiesbaden"
+  },
+  {
+    "Frankfurt": "Limburg"
+  },
+  {
+    "Gießen": "Offenbach"
+  },
+  {
+    "Offenbach": "Fulda"
+  },
+  {
+    "Fulda": "Wuerzburg"
+  },
+  {
+    "Aschaffenburg": "Wuerzburg"
+  },
+  {
+    "Aschaffenburg": "Offenbach"
+  },
+  {
+    "Darmstadt": "Aschaffenburg"
+  },
+  {
+    "Mannheim": "Heidelberg"
+  },
+  {
+    "Heidelberg": "Bruchsal"
+  },
+  {
+    "Bruchsal": "Karlsruhe"
+  },
+  {
+    "Karlsruhe": "Landau"
+  },
+  {
+    "Baden-Baden": "Karlsruhe"
+  },
+  {
+    "Karlsruhe": "Pforzheim"
+  },
+  {
+    "Pforzheim": "Stuttgart"
+  },
+  {
+    "Stuttgart": "Esslingen"
+  },
+  {
+    "Esslingen": "Goeppingen"
+  },
+  {
+    "Goeppingen": "Aalen"
+  },
+  {
+    "Aalen": "Schwaebisch Hall"
+  },
+  {
+    "Schwaebisch Hall": "Stuttgart"
+  },
+  {
+    "Stuttgart": "Heilbronn"
+  },
+  {
+    "Heilbronn": "Heidelberg"
+  },
+  {
+    "Heidelberg": "Wuerzburg"
+  },
+  {
+    "Wuerzburg": "Heilbronn"
+  },
+  {
+    "Schwaebisch Hall": "Wuerzburg"
+  },
+  {
+    "Heilbronn": "Schwaebisch Hall"
+  },
+  {
+    "Schwaebisch Hall": "Crailsheim"
+  },
+  {
+    "Crailsheim": "Aalen"
+  },
+  {
+    "Aalen": "Donauwoerth"
+  },
+  {
+    "Donauwoerth": "Weissenburg"
+  },
+  {
+    "Weissenburg": "Ansbach"
+  },
+  {
+    "Ansbach": "Crailsheim"
+  },
+  {
+    "Crailsheim": "Rothenburg"
+  },
+  {
+    "Rothenburg": "Ansbach"
+  },
+  {
+    "Ansbach": "Wuerzburg"
+  },
+  {
+    "Wuerzburg": "Nuernberg"
+  },
+  {
+    "Nuernberg": "Bamberg"
+  },
+  {
+    "Bamberg": "Schweinfurt"
+  },
+  {
+    "Schweinfurt": "Wuerzburg"
+  },
+  {
+    "Ansbach": "Nuernberg"
+  },
+  {
+    "Nuernberg": "Weissenburg"
+  },
+  {
+    "Weissenburg": "Ingolstadt"
+  },
+  {
+    "Ingolstadt": "Nuernberg"
+  },
+  {
+    "Nuernberg": "Regensburg"
+  },
+  {
+    "Regensburg": "Wieden"
+  },
+  {
+    "Wieden": "Nuernberg"
+  },
+  {
+    "Nuernberg": "Bayreuth"
+  },
+  {
+    "Bayreuth": "Wieden"
+  },
+  {
+    "Wieden": "Cham"
+  },
+  {
+    "Cham": "Straubing"
+  },
+  {
+    "Straubing": "Regensburg"
+  },
+  {
+    "Regensburg": "Ingolstadt"
+  },
+  {
+    "Ingolstadt": "Donauwoerth"
+  },
+  {
+    "Donauwoerth": "Ulm"
+  },
+  {
+    "Ulm": "Goeppingen"
+  },
+  {
+    "Bamberg": "Bayreuth"
+  },
+  {
+    "Bayreuth": "Hof"
+  },
+  {
+    "Hof": "Bamberg"
+  },
+  {
+    "Bamberg": "Coburg"
+  },
+  {
+    "Coburg": "Meiningen"
+  },
+  {
+    "Meiningen": "Schweinfurt"
+  },
+  {
+    "Schweinfurt": "Fulda"
+  },
+  {
+    "Fulda": "Meiningen"
+  },
+  {
+    "Fulda": "Bamberg"
+  },
+  {
+    "Bamberg": "Meiningen"
+  },
+  {
+    "Eisenach": "Meiningen"
+  },
+  {
+    "Bad Hersfeld": "Eisenach"
+  },
+  {
+    "Eisenach": "Bebra"
+  },
+  {
+    "Eisenach": "Gotha"
+  },
+  {
+    "Gotha": "Erfurt"
+  },
+  {
+    "Erfurt": "Weimar"
+  },
+  {
+    "Weimar": "Jena"
+  },
+  {
+    "Jena": "Saalfeld"
+  },
+  {
+    "Saalfeld": "Meiningen"
+  },
+  {
+    "Saalfeld": "Hof"
+  },
+  {
+    "Hof": "Plauen"
+  },
+  {
+    "Saalfeld": "Coburg"
+  },
+  {
+    "Erfurt": "Nordhausen"
+  },
+  {
+    "Halle": "Naumburg"
+  },
+  {
+    "Eisleben": "Halle"
+  },
+  {
+    "Cham": "Passau"
+  },
+  {
+    "Passau": "Simbach"
+  },
+  {
+    "Simbach": "Ladnshut"
+  },
+  {
+    "Ladnshut": "Regensburg"
+  },
+  {
+    "Regensburg": "Muenchen"
+  },
+  {
+    "Ingolstadt": "Muenchen"
+  },
+  {
+    "Muenchen": "Muehldorf"
+  },
+  {
+    "Muehldorf": "Simbach"
+  },
+  {
+    "Ladnshut": "Muenchen"
+  },
+  {
+    "Ladnshut": "Straubing"
+  },
+  {
+    "Straubing": "Passau"
+  },
+  {
+    "Muenchen": "Rosenheim"
+  },
+  {
+    "Rosenheim": "Traunstein"
+  },
+  {
+    "Traunstein": "Simbach"
+  },
+  {
+    "Rosenheim": "Bad Toelz"
+  },
+  {
+    "Muenchen": "Bad Toelz"
+  },
+  {
+    "Bad Toelz": "Garmisch-Partenkirchen"
+  },
+  {
+    "Garmisch-Partenkirchen": "Fuessen"
+  },
+  {
+    "Fuessen": "Landsberg"
+  },
+  {
+    "Landsberg": "Muenchen"
+  },
+  {
+    "Muenchen": "Garmisch-Partenkirchen"
+  },
+  {
+    "Muenchen": "Augsburg"
+  },
+  {
+    "Augsburg": "Landsberg"
+  },
+  {
+    "Landsberg": "Memmingen"
+  },
+  {
+    "Memmingen": "Kempten"
+  },
+  {
+    "Kempten": "Fuessen"
+  },
+  {
+    "Kempten": "Landsberg"
+  },
+  {
+    "Augsburg": "Donauwoerth"
+  },
+  {
+    "Augsburg": "Ulm"
+  },
+  {
+    "Memmingen": "Ulm"
+  },
+  {
+    "Ulm": "Ravensburg"
+  },
+  {
+    "Ravensburg": "Friedrichshafen"
+  },
+  {
+    "Friedrichshafen": "Lindau"
+  },
+  {
+    "Lindau": "Kempten"
+  },
+  {
+    "Lindau": "Memmingen"
+  },
+  {
+    "Lindau": "Oberstorf"
+  },
+  {
+    "Oberstorf": "Fuessen"
+  },
+  {
+    "Lindau": "Fuessen"
+  },
+  {
+    "Baden-Baden": "Kehl"
+  },
+  {
+    "Kehl": "Offenburg"
+  },
+  {
+    "Offenburg": "Freiburg"
+  },
+  {
+    "Breisach": "Freiburg"
+  },
+  {
+    "Freiburg": "Loerrach"
+  },
+  {
+    "Loerrach": "Saeckingen"
+  },
+  {
+    "Saeckingen": "Singen"
+  },
+  {
+    "Singen": "Konstanz"
+  },
+  {
+    "Konstanz": "Friedrichshafen"
+  },
+  {
+    "Friedrichshafen": "Singen"
+  },
+  {
+    "Singen": "Tuttlingen"
+  },
+  {
+    "Tuttlingen": "Donaueschingen"
+  },
+  {
+    "Donaueschingen": "Titisee-Neustadt"
+  },
+  {
+    "Donaueschingen": "Singen"
+  },
+  {
+    "Loerrach": "Titisee-Neustadt"
+  },
+  {
+    "Titisee-Neustadt": "Freiburg"
+  },
+  {
+    "Offenburg": "Donaueschingen"
+  },
+  {
+    "Donaueschingen": "Rottweil"
+  },
+  {
+    "Rottweil": "Tuebingen"
+  },
+  {
+    "Tuebingen": "Sigmaringen"
+  },
+  {
+    "Sigmaringen": "Tuttlingen"
+  },
+  {
+    "Sigmaringen": "Ravensburg"
+  },
+  {
+    "Sigmaringen": "Ulm"
+  },
+  {
+    "Ulm": "Reutlingen"
+  },
+  {
+    "Reutlingen": "Tuebingen"
+  },
+  {
+    "Tuebingen": "Stuttgart"
+  },
+  {
+    "Pforzheim": "Freudenstadt"
+  },
+  {
+    "Freudenstadt": "Tuebingen"
+  },
+  {
+    "Freudenstadt": "Kehl"
+  }
+]
